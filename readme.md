@@ -6,3 +6,8 @@
 * welcome to redhat linux
 
  `systemctl status httpd`
+
+```bash
+sudo su
+systemctl enable httpd
+sudo /vim/index.html
