@@ -11,3 +11,8 @@
 sudo su
 systemctl enable httpd
 sudo /vim/index.html
+
+```
+```bash
+sudo localhost
+systemctl restart httpd
