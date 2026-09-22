@@ -5,4 +5,4 @@
 * the is a sample website1
 * welcome to redhat linux
 
-  'systemctl status httpd'
+ \systemctl status httpd\
